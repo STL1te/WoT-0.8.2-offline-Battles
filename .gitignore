@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+__pycache__/
+build/
+.env
+# Engine loads these two only as Python 2.6 bytecode - shipped binaries.
+!src/bootstrap/*.pyc
+.venv/
+.tools/

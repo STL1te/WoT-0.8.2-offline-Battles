@@ -1,0 +1,304 @@
+{
+  "format": "offhangar-navgraph-manifest",
+  "game_version": "0.8.2",
+  "maps": [
+    {
+      "bytes": 817104,
+      "cell_size": 4.0,
+      "file": "01_karelia.json",
+      "height": 250,
+      "map": "01_karelia",
+      "sha256": "adf7b655f533ca71e085cc8dc94be8fcefd20df76cfd8070e4e179262bba7ff1",
+      "width": 250
+    },
+    {
+      "bytes": 826819,
+      "cell_size": 4.0,
+      "file": "02_malinovka.json",
+      "height": 250,
+      "map": "02_malinovka",
+      "sha256": "e6754531739ac9d951d22502923a4bbbee6f930060586000fe85a80de1c7564f",
+      "width": 250
+    },
+    {
+      "bytes": 319076,
+      "cell_size": 4.0,
+      "file": "03_campania.json",
+      "height": 150,
+      "map": "03_campania",
+      "sha256": "4d1bbd8fd67107fa47c3ed4827b59e250f69838e616db7430c032b903a9a59e3",
+      "width": 150
+    },
+    {
+      "bytes": 404459,
+      "cell_size": 4.0,
+      "file": "04_himmelsdorf.json",
+      "height": 180,
+      "map": "04_himmelsdorf",
+      "sha256": "6547d3ae85d9c5ca5942510bbf042e1c5244ecc864291fbfefcb3040abdd1bfd",
+      "width": 175
+    },
+    {
+      "bytes": 781130,
+      "cell_size": 4.0,
+      "file": "05_prohorovka.json",
+      "height": 250,
+      "map": "05_prohorovka",
+      "sha256": "4f8fad6bf016fdb94ca464fd3730c71ae5b8d14e40a94638e5cd70fb3cba4906",
+      "width": 250
+    },
+    {
+      "bytes": 271376,
+      "cell_size": 4.0,
+      "file": "06_ensk.json",
+      "height": 150,
+      "map": "06_ensk",
+      "sha256": "2043288b413fddee261f048fcf82e618e7aff3069149ee75d1e04d123f050888",
+      "width": 150
+    },
+    {
+      "bytes": 481856,
+      "cell_size": 4.0,
+      "file": "07_lakeville.json",
+      "height": 200,
+      "map": "07_lakeville",
+      "sha256": "ea5faaa4eb64c612e1862d47171ce54af23ab34877eb2b09c88ee3d7693af894",
+      "width": 200
+    },
+    {
+      "bytes": 507332,
+      "cell_size": 4.0,
+      "file": "08_ruinberg.json",
+      "height": 200,
+      "map": "08_ruinberg",
+      "sha256": "eb50bb4b6f76eae8dc4608e757467d1db7085d6eb29e47b190ff7e5f502af6bf",
+      "width": 200
+    },
+    {
+      "bytes": 518620,
+      "cell_size": 4.0,
+      "file": "10_hills.json",
+      "height": 200,
+      "map": "10_hills",
+      "sha256": "819fd5ef64ee193d193ee2f03d4ca4a1b5b32e614c6c300275a38a8785e9646c",
+      "width": 200
+    },
+    {
+      "bytes": 478796,
+      "cell_size": 4.0,
+      "file": "11_murovanka.json",
+      "height": 200,
+      "map": "11_murovanka",
+      "sha256": "faec6e6f3601ca08b4505125baa29386354f83c071f5d4919fd751ba0ef70220",
+      "width": 200
+    },
+    {
+      "bytes": 781148,
+      "cell_size": 4.0,
+      "file": "13_erlenberg.json",
+      "height": 250,
+      "map": "13_erlenberg",
+      "sha256": "6558b66ee68dfe818f05ad210373375d2fed072d4ed7c22101f99c1e1a23ad52",
+      "width": 250
+    },
+    {
+      "bytes": 835517,
+      "cell_size": 4.0,
+      "file": "14_siegfried_line.json",
+      "height": 250,
+      "map": "14_siegfried_line",
+      "sha256": "8c710aa00dcd49f2449b5941e6b54eaec8c71f81054d7854d1a3d38e064abee8",
+      "width": 250
+    },
+    {
+      "bytes": 513902,
+      "cell_size": 4.0,
+      "file": "15_komarin.json",
+      "height": 200,
+      "map": "15_komarin",
+      "sha256": "20834225ace811a0b5943fb7acb4ac31f7b7a55c5da8446bdd32dc45bd6e108f",
+      "width": 200
+    },
+    {
+      "bytes": 302088,
+      "cell_size": 4.0,
+      "file": "17_munchen.json",
+      "height": 150,
+      "map": "17_munchen",
+      "sha256": "d1608f21fb48b662985330d8047c48f7719f0da2ffacea331456a4ff3f02d29c",
+      "width": 150
+    },
+    {
+      "bytes": 768528,
+      "cell_size": 4.0,
+      "file": "18_cliff.json",
+      "height": 250,
+      "map": "18_cliff",
+      "sha256": "7c82899dd6704d23e7047fa24986671eca9b05a61935646de3529cffd19f302b",
+      "width": 250
+    },
+    {
+      "bytes": 739398,
+      "cell_size": 4.0,
+      "file": "19_monastery.json",
+      "height": 250,
+      "map": "19_monastery",
+      "sha256": "2adbd6e48c4d3dd5943b3622d99e45e4fd99000304550c517e37a5d62e892361",
+      "width": 250
+    },
+    {
+      "bytes": 741503,
+      "cell_size": 4.0,
+      "file": "22_slough.json",
+      "height": 250,
+      "map": "22_slough",
+      "sha256": "7034fa950eb1b04e997372ed98add452c4a35605a9a0d1505e7b8d5d2fec60ea",
+      "width": 250
+    },
+    {
+      "bytes": 836341,
+      "cell_size": 4.0,
+      "file": "23_westfeld.json",
+      "height": 250,
+      "map": "23_westfeld",
+      "sha256": "297e165d184b911c80ecb29ed3d6d96d9ca0d91bfafeb517312ffa112f01b7ec",
+      "width": 250
+    },
+    {
+      "bytes": 896450,
+      "cell_size": 4.0,
+      "file": "28_desert.json",
+      "height": 250,
+      "map": "28_desert",
+      "sha256": "f77e6962ce8a316b8f8d05afab045515d94080b7b01c62da75193f3890d4141f",
+      "width": 250
+    },
+    {
+      "bytes": 805011,
+      "cell_size": 4.0,
+      "file": "29_el_hallouf.json",
+      "height": 250,
+      "map": "29_el_hallouf",
+      "sha256": "5104bade8817ad5f2e13c90183ff0e3121a9b905fa8d655ca61b9ae5d775463b",
+      "width": 250
+    },
+    {
+      "bytes": 758632,
+      "cell_size": 4.0,
+      "file": "31_airfield.json",
+      "height": 250,
+      "map": "31_airfield",
+      "sha256": "f4a1014686f1158d6f01743910f4f4ac76d34d5e1a9993ad59f76f5502e61a15",
+      "width": 250
+    },
+    {
+      "bytes": 720757,
+      "cell_size": 4.0,
+      "file": "33_fjord.json",
+      "height": 250,
+      "map": "33_fjord",
+      "sha256": "45f3e6e9fb6ee9d5d0c575076db0da51c6fd55ce1d36778205ea245ca6c5a746",
+      "width": 250
+    },
+    {
+      "bytes": 790573,
+      "cell_size": 4.0,
+      "file": "34_redshire.json",
+      "height": 250,
+      "map": "34_redshire",
+      "sha256": "ed7c780639ff33e90ae66f7c0528a32a58af6ad249283d169597eaae44426044",
+      "width": 250
+    },
+    {
+      "bytes": 744836,
+      "cell_size": 4.0,
+      "file": "35_steppes.json",
+      "height": 250,
+      "map": "35_steppes",
+      "sha256": "e979ca58688381a51076c1d2bc64e941c203482147279d86ed17fa32c1713ec9",
+      "width": 250
+    },
+    {
+      "bytes": 801956,
+      "cell_size": 4.0,
+      "file": "36_fishing_bay.json",
+      "height": 250,
+      "map": "36_fishing_bay",
+      "sha256": "d0e496bde6538c723e0be251685ac952bb38484de359039d12c25a21503ae8d8",
+      "width": 250
+    },
+    {
+      "bytes": 713176,
+      "cell_size": 4.0,
+      "file": "37_caucasus.json",
+      "height": 250,
+      "map": "37_caucasus",
+      "sha256": "e527a34e146a787d248e61d5e8837818a3bb8c3b7606be80fa3826e25a038cdf",
+      "width": 250
+    },
+    {
+      "bytes": 746373,
+      "cell_size": 4.0,
+      "file": "38_mannerheim_line.json",
+      "height": 250,
+      "map": "38_mannerheim_line",
+      "sha256": "4f4944a51003e975d33b588ccdf0db7e35f0454f6697e0239fab3e799e03db81",
+      "width": 250
+    },
+    {
+      "bytes": 762001,
+      "cell_size": 4.0,
+      "file": "39_crimea.json",
+      "height": 250,
+      "map": "39_crimea",
+      "sha256": "b6edc6ef0735e7a968b98f424162a238c1746662380c8ce616dbf3842d096335",
+      "width": 250
+    },
+    {
+      "bytes": 543290,
+      "cell_size": 4.0,
+      "file": "42_north_america.json",
+      "height": 208,
+      "map": "42_north_america",
+      "sha256": "8d54bc8c8c6d8b66c5aba4cdcc8dae424fa7334323b120ea54050ad99d6b7091",
+      "width": 208
+    },
+    {
+      "bytes": 740360,
+      "cell_size": 4.0,
+      "file": "44_north_america.json",
+      "height": 250,
+      "map": "44_north_america",
+      "sha256": "8332e30ab2ef283262579a075e8c1369356233b7cced878a3ab69e5d169c54d1",
+      "width": 250
+    },
+    {
+      "bytes": 828569,
+      "cell_size": 4.0,
+      "file": "45_north_america.json",
+      "height": 250,
+      "map": "45_north_america",
+      "sha256": "a5e173f1f51e2b74487e0e8647b6d066ed2298f40726a315f3cbe811525d7447",
+      "width": 250
+    },
+    {
+      "bytes": 743156,
+      "cell_size": 4.0,
+      "file": "47_canada_a.json",
+      "height": 250,
+      "map": "47_canada_a",
+      "sha256": "0754e4357f3c80247a770d9f0c4921c2fbf90a677ed6930e67ab0cc21d6322f0",
+      "width": 250
+    },
+    {
+      "bytes": 750201,
+      "cell_size": 4.0,
+      "file": "51_asia.json",
+      "height": 250,
+      "map": "51_asia",
+      "sha256": "7c9ee8231532475a2c8cb5e27323068f78972b3db4b90c3720a375926d454b2c",
+      "width": 250
+    }
+  ],
+  "version": 1
+}
